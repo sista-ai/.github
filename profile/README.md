@@ -1,5 +1,5 @@
 # Welcome to Sista AI
 
-### Plug & Play: AI Integration Platform.
+### The first Plug & Play AI Integration Platform.
 
-[![Sista Logo](https://github.com/sista-ai/ai-assistant-react/blob/main/assets/sista-demo-one.png)](https://smart.sista.ai)
+[![Sista Logo](https://github.com/sista-ai/ai-assistant-react/blob/main/assets/sista-banner-one.png)](https://smart.sista.ai)
