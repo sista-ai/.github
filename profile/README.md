@@ -4,7 +4,7 @@
 
 [![Sista Banner](https://github.com/sista-ai/ai-assistant-react/blob/main/assets/sista-banner-one.png)](https://smart.sista.ai/?utm_source=github_org&utm_medium=main_banner&utm_campaign=root_page)
 
-![IMG one](./sista-ai-voicebot.png)
+<img src="./sista-ai-voicebot.png" alt="IMG one" style="width: 100%;">
 
 [![Sista Logo](https://github.com/sista-ai/ai-assistant-react/blob/main/assets/sista-logo.png)](https://smart.sista.ai/?utm_source=github_org&utm_medium=big_logo&utm_campaign=root_page)
 
