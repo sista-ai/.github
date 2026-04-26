@@ -1,14 +1,13 @@
-# Welcome to Sista AI
+
 
 [![Sista Logo](https://smart.sista.ai/images/logo/sista-ai-logo-main.png)](https://sista.ai)
 
-## Let AI Do the Work
+# It's Time for AI To Work
 
-Sista AI is an AI workforce platform where you can hire AI employees, from a personal assistant to full specialized teams for marketing, sales, support, and more.
-
-They learn your business, use your tools, and work around the clock to get real work done.
+Sista AI is an AI orchestration platform where you can deploy advanced AI agents, that work in teams to deliver top results.
 
 **Start here:** https://work.sista.ai
+Promo Code = SISTA-PRO
 
 ---
 
