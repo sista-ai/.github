@@ -1,12 +1,13 @@
 
 
-[![Sista Logo](https://smart.sista.ai/images/logo/sista-ai-logo-main.png)](https://sista.ai)
+[![Sista Logo](https://sistava.com/images/logo/sista-ai-logo-main.png)](https://sista.ai)
 
 # It's Time for AI To Work
 
 Sista AI is an AI orchestration platform where you can deploy advanced AI agents, that work in teams to deliver top results.
 
-**Start here:** https://work.sista.ai
+**Start here:** https://sistava.com
+
 Promo Code = SISTA-PRO
 
 ---
@@ -24,4 +25,4 @@ Beyond our own products, we help companies adopt AI the right way:
 
 ---
 
-<img src="https://smart.sista.ai/images/art/sista-ai-voicebot-large.png" alt="Sista AI Art" style="width: 100%;">
+<img src="https://sistava.com/images/art/sista-ai-voicebot-large.png" alt="Sista AI Art" style="width: 100%;">
