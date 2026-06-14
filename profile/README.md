@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://sistava.com/site-assets/banners/v1-sistava-banner-dark.png" alt="Sistava AI Employees Banner" width="100%">
+  <img src="https://sistava.com/site-assets/banners/sistava-banner-dark.png" alt="Sistava AI Employees Banner" width="100%">
 
   ### *It's Time for AI To Work.*
 </div>
